@@ -5,9 +5,9 @@ This is a project for performing linguistic quality analysis on log messages. Th
 ## Getting Started
 These instructions will help you to set up and run this project on your local machine.  
 
-Run the [my_model.py](https://github.com/DSCI-644/project-dsci-644-02-group-9-ritvik-disha-deepika/blob/main/code/my_model.py) using Google Colab for our final submission.
+Run the [final_model.py](https://github.com/ritvik-chebolu/Log-Quality-Analysis/blob/main/code/final_model.py) and the [my_model.py](https://github.com/ritvik-chebolu/Log-Quality-Analysis/blob/main/code/my_model.py) using Google Colab for our the final script.
 
-Run the [final_model.py](https://github.com/DSCI-644/project-dsci-644-02-group-9-ritvik-disha-deepika/blob/main/code/final_model.py) using Google Colab for our phase 3 submission.
+Run the  using Google Colab for our phase 3 submission.
 
 We tried our best to insert as much as possible information into the main manuscript. For the comments that were lacking space, we inserted them as supplementary material. Following the recommendations from the meta-reviewers, we upload a file: Meta_Review_Comments_Addressed_SupplementaryMaterial_ICPC_QuLog.pdf. It addresses part of the comments raised by the meta reviewers. 
 
