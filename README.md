@@ -7,22 +7,19 @@ These instructions will help you to set up and run this project on your local ma
 
 Run the [final_model.py](https://github.com/ritvik-chebolu/Log-Quality-Analysis/blob/main/code/final_model.py) and the [my_model.py](https://github.com/ritvik-chebolu/Log-Quality-Analysis/blob/main/code/my_model.py) using Google Colab for our the final script.
 
-Run the  using Google Colab for our phase 3 submission.
-
-We tried our best to insert as much as possible information into the main manuscript. For the comments that were lacking space, we inserted them as supplementary material. Following the recommendations from the meta-reviewers, we upload a file: Meta_Review_Comments_Addressed_SupplementaryMaterial_ICPC_QuLog.pdf. It addresses part of the comments raised by the meta reviewers. 
+We tried our best to insert as much as possible information into the main manuscript. For the comments that were lacking space, we inserted them as supplementary material. Following the recommendations from the meta-reviewers, we upload a file: [Meta_Review_Comments_Addressed_SupplementaryMaterial_ICPC_QuLog.pdf](https://github.com/ritvik-chebolu/Log-Quality-Analysis/blob/main/Meta_Review_Comments_Addressed_SupplementaryMaterial_ICPC_QuLog.pdf). It addresses part of the comments raised by the meta reviewers. 
 
 
 # QuLog
-This repository contains the code for the paper **"QuLog: Data-Driven Approach for Log Instruction Quality Assessment*"**. 
 In the folder **code** can be found the evaluation scripts used to obtain the results. Alongside, given are the exact predictions.
 
-The preprocessed datasets can be found in the **data** folder. 
+All the data we collected and preprocessed can be found in the **[data](https://github.com/ritvik-chebolu/Log-Quality-Analysis/tree/main/data)** folder. 
 Notably, due to proprietary issues, we do not disclose the data on the internal systems. 
 
 To start with the code clone this GitHub repo: 
 
 1) git clone https://github.com/DSCI-644/project-dsci-644-02-group-9-ritvik-disha-deepika.git
-2) create a virtual enviorment pyton3 -m venv venv
+2) create a virtual enviorment python3 -m venv venv
 3) Install requirements: python -m pip install -r requirments.txt
 4) To check QuLog log level navigate to: ./code/level_quality/qulog_attention_nn_type1/qulog_attention_nn_type1/ (This folder contains the model and the classes)
 6) Run: python3 qulog_attention_nn_type1.py; to check the log level for an example log message. You can modify line 120 for arbitrary log instruction. 
@@ -66,4 +63,3 @@ Spacy note: Additionally, after installation of spacy make sure it is properly i
 ## Authors
 * **Disha Shah** - [disha9896](https://github.com/disha9896)
 * **Ritvik Chebolu** - [ritvik-chebolu](https://github.com/rtvik-chebolu)
-* **Deepika Anipini** - [deepika-anipini]
