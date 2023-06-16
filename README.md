@@ -7,7 +7,7 @@ These instructions will help you to set up and run this project on your local ma
 
 Run the [final_model.py](https://github.com/ritvik-chebolu/Log-Quality-Analysis/blob/main/code/final_model.py) and the [my_model.py](https://github.com/ritvik-chebolu/Log-Quality-Analysis/blob/main/code/my_model.py) using Google Colab for our the final script.
 
-We tried our best to insert as much as possible information into the main manuscript. For the comments that were lacking space, we inserted them as supplementary material. Following the recommendations from the meta-reviewers, we upload a file: [Meta_Review_Comments_Addressed_SupplementaryMaterial_ICPC_QuLog.pdf](https://github.com/ritvik-chebolu/Log-Quality-Analysis/blob/main/Meta_Review_Comments_Addressed_SupplementaryMaterial_ICPC_QuLog.pdf). It addresses part of the comments raised by the meta reviewers. 
+We tried our best to insert as much as possible information into the main manuscript. 
 
 
 # QuLog
@@ -60,6 +60,10 @@ Spacy note: Additionally, after installation of spacy make sure it is properly i
     |requirments.txt
     |README.md
 
+For the comments that were lacking space, we inserted them as supplementary material. Following the recommendations from the meta-reviewers, we upload a file: [Meta_Review_Comments_Addressed_SupplementaryMaterial_ICPC_QuLog.pdf](https://github.com/ritvik-chebolu/Log-Quality-Analysis/blob/main/Meta_Review_Comments_Addressed_SupplementaryMaterial_ICPC_QuLog.pdf). It addresses part of the comments raised by the meta reviewers. 
+
 ## Authors
-* **Disha Shah** - [disha9896](https://github.com/disha9896)
 * **Ritvik Chebolu** - [ritvik-chebolu](https://github.com/rtvik-chebolu)
+* **Disha Shah** - [disha9896](https://github.com/disha9896)
+
+** We tried to replicate and improve the results of the paper [QuLog: Data-Driven Approach for Log Instruction Quality Assessment](https://ieeexplore.ieee.org/document/9796196) and succeeded, which was reflected by an increased accuracy in the model performance after optimization.
